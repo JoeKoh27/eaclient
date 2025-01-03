@@ -5,9 +5,9 @@
 #include <utils/nt.hpp>
 #include <utils/string.hpp>
 
-#define IIDX_TARGET_VERSION "P2D:J:B:A:2024080500"
+#define IIDX_TARGET_VERSION "P2D:J:B:A:2024121800"
 #define SDVX_TARGET_VERSION "ANY"
-#define GITADORA_TARGET_VERSION "U32:J:A:A:2024021300"
+#define GITADORA_TARGET_VERSION "U32:J:A:A:2024080600"
 
 namespace game
 {
